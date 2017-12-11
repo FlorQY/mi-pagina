@@ -4,11 +4,7 @@
 
 1) **Objetivo**
 
-Para este reto nos piden que creemos una página web con la siguiente estructura:
-
-![objetivo](assets/images/objetivo.png)
-
-De forma que se pueda visualizar para diferentes dispositivosen este caso celulares y laptops respectivamente,imagen a continuación:
+Para este reto nos piden que creemos una página web con la una determinada estructura,de forma que se pueda visualizar para diferentes dispositivos en este caso celulares y laptops respectivamente,las imágenes a continuación:
 
 
 ![version laptop objetivo](assets/images/v-l-objetivo.png)
